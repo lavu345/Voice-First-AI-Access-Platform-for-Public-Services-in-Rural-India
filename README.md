@@ -11,20 +11,29 @@ This system provides a voice-first interface where users can simply ask question
 
 Key Features
 🎙 Voice and text-based interaction
+
 🌐 Multilingual support (Kannada, Telugu, Tamil, Hindi, English)
+
 🧠 AI-powered intent detection and response generation
+
 📍 Location-based service suggestions (hospitals, offices)
-📄 Step-by-step document and eligibility guidance
 
 Tech Stack:
 Frontend: Streamlit / React
+
 Backend: FastAPI (Python)
+
 AI: Whisper / OpenAI / Gemini
+
 Data: JSON / CSV / SQLite
+
 APIs: Google Maps API
 
 Use Cases:
 Find nearby healthcare centers
+
 Check eligibility for government schemes
+
 Get required documents for applications
+
 Discover local education and skill programs
